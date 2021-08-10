@@ -1,0 +1,11 @@
+.born_date {
+    border: transparent;
+    outline: none;
+    padding-left: 5px;
+    height: 20px;
+    color: #21221f;
+}
+.born_date:focus {
+    background-color: #383a34; 
+    color: white;
+}

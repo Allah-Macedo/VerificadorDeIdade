@@ -1,0 +1,22 @@
+.sec-image {
+    width: 350px;
+    height: 250px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    margin: 0 auto;
+    padding: 1rem;
+    border-radius: 15px;
+    background-color: rgb(108, 108, 121);
+}
+
+.mensage {font-size: 13pt;}
+
+.image {
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    position: relative;
+    margin: 0 auto;
+    border-radius: 20px;
+}

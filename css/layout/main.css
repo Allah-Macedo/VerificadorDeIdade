@@ -1,0 +1,9 @@
+.main_block {
+    width: 100%;
+    max-width: 400px;
+    padding: 1rem;
+    text-align: center;
+    border-radius: 15px;
+    background-color: #ad9576;
+    box-shadow: 1px 1px 15px #f3f3f2;
+}
