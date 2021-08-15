@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="pt-br">
+<html lang="pt-br" class="theme_default">
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -17,15 +17,15 @@
     <main class="main_block">
         <section class="" id="">
             <div>
-              <label for="born" class="gender_font">Birth Date :</label>
+              <label for="born" class="gender_txt">Birth Date :</label>
               <input type="number" name="born" class="born_date" id="born_date" min="0">
             </div>
             <div class="gender">
-                <span class="gender_font">Gender :</span>
+                <span class="gender_txt">Gender :</span>
+                <input type="radio" name="radio" class="radio" checked>
+                <label for="radio" class="gender_txt">Masculino</label>
                 <input type="radio" name="radio" class="radio">
-                <label for="radio" class="gender_font" checked>Masculino</label>
-                <input type="radio" name="radio" class="radio">
-                <label for="radio" class="gender_font">Feminino</label>
+                <label for="radio" class="gender_txt">Feminino</label>
             </div>
             <input type="button" value="Verificar" class="verificar" id="verifica">
         </section>

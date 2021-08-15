@@ -1,3 +1,10 @@
-.radio {
-    margin-left: 1rem;
+.radio  {margin-left: 1rem;}
+
+.gender {margin: 1rem;}
+
+.gender_txt  {font-size: 15pt;}
+
+.gender_selec {
+    font-size: 15pt;
+    color: var(--gender_selec-color)
 }

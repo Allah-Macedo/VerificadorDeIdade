@@ -1,5 +1,5 @@
 .titulo {
     font-size: 25pt;
     font-weight: bold;
-    color: white;
+    color: var(--header_color);
 }

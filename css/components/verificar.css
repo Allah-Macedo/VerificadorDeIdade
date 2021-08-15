@@ -2,9 +2,9 @@
     padding: 8px 10px;
     letter-spacing: 1px;
     margin-bottom: 1rem;
-    background-color: #3c3f3e;
-    color: azure;
-    border: transparent;
+    background-color: var(--varifica_bg-color);
+    color: var(--varifica_color);
+    border: none;
     cursor: pointer;
 }
 

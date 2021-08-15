@@ -1,0 +1,15 @@
+.theme_default:root {
+    --body_color          : #ffffff;
+    --body_bg-color       : #383a3a;
+    --born_color          : #21221f;
+    --born_color-focus    : #ffffff;
+    --born_bg-color-focus : #383a34;
+    --gender_selec-color  : #2c2c21;
+    --varifica_bg-color   : #3c3f3e;
+    --varifica_color      : #f0ffff;
+    --header_color        : #ffffff;
+    --main_bg-color       : #ad9576;
+    --main_shadow-color   : #f3f3f2;
+    --sec_image_bg-color  : #6c6c79;
+    --footer_color        : #ffffff;
+}
